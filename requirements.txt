@@ -1,0 +1,10 @@
+asgiref==3.6.0
+Django==4.2
+django-environ==0.10.0
+django-solo==2.0.0
+psycopg2==2.9.6
+sqlparse==0.4.3
+celery
+redis
+django-celery-beat
+django-celery-results
