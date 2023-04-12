@@ -28,3 +28,4 @@ sqlparse==0.4.3
 tzdata==2023.3
 vine==5.0.0
 wcwidth==0.2.6
+gunicorn
